@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pomofocus-clone/static/css/main.16fdf8eb.chunk.css",
-    "main.js": "/pomofocus-clone/static/js/main.215427c9.chunk.js",
-    "main.js.map": "/pomofocus-clone/static/js/main.215427c9.chunk.js.map",
+    "main.css": "/pomofocus-clone/static/css/main.cc2e4fce.chunk.css",
+    "main.js": "/pomofocus-clone/static/js/main.381347df.chunk.js",
+    "main.js.map": "/pomofocus-clone/static/js/main.381347df.chunk.js.map",
     "runtime-main.js": "/pomofocus-clone/static/js/runtime-main.b8cbb348.js",
     "runtime-main.js.map": "/pomofocus-clone/static/js/runtime-main.b8cbb348.js.map",
     "static/js/2.2202f89d.chunk.js": "/pomofocus-clone/static/js/2.2202f89d.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.43edf9ba.chunk.js": "/pomofocus-clone/static/js/3.43edf9ba.chunk.js",
     "static/js/3.43edf9ba.chunk.js.map": "/pomofocus-clone/static/js/3.43edf9ba.chunk.js.map",
     "index.html": "/pomofocus-clone/index.html",
-    "static/css/main.16fdf8eb.chunk.css.map": "/pomofocus-clone/static/css/main.16fdf8eb.chunk.css.map",
+    "static/css/main.cc2e4fce.chunk.css.map": "/pomofocus-clone/static/css/main.cc2e4fce.chunk.css.map",
     "static/js/2.2202f89d.chunk.js.LICENSE.txt": "/pomofocus-clone/static/js/2.2202f89d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8cbb348.js",
     "static/js/2.2202f89d.chunk.js",
-    "static/css/main.16fdf8eb.chunk.css",
-    "static/js/main.215427c9.chunk.js"
+    "static/css/main.cc2e4fce.chunk.css",
+    "static/js/main.381347df.chunk.js"
   ]
 }
